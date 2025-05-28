@@ -47,13 +47,21 @@ Real-time values displayed on a 20x4 I2C LCD
 🧾 Serial Control Commands
 Command	Action	Pin
 1	Turn ON Device 1	D13
+
 0	Turn OFF Device 1	D13
+
 3	Turn ON Device 2	D12
+
 2	Turn OFF Device 2	D12
+
 5	Turn ON Device 3	D11
+
 4	Turn OFF Device 3	D11
+
 7	Turn OFF Device 4	D10
+
 6	Turn ON Device 4	D10
+
 
 🧪 Installation
 Connect sensors to the Arduino:
