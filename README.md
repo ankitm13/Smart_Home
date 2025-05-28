@@ -46,6 +46,7 @@ Real-time values displayed on a 20x4 I2C LCD
 
 🧾 Serial Control Commands
 Command	Action	Pin
+
 1	Turn ON Device 1	D13
 
 0	Turn OFF Device 1	D13
